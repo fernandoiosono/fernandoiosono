@@ -5,7 +5,7 @@
 
 👨‍🚀 Web Developer with an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
 
-💻 Key Skills: Full-Stack Web Development, Expertise in CSS, JavaScript, React, Node, Express, PostgreSQL, Redux, SCRUM, and a Sprinkle of Magic with .NET, SQL Server, and Design Skills.
+💻 Key Skills: Full-Stack Web Development, Expertise in CSS, JavaScript, React, Node, Express, PostgreSQL, Redux, SCRUM, SQL Server, Design Skills and a Sprinkle of Magic with .NET
 
 🌐 I've Contributed to the Success of Exciting Projects, Including E-Commerce Systems, 360° Employee Assessments, ERPs, and Financial Information Systems. I've Also Developed User Manuals and Desktop Software for Both Internal and Industrial Use.
 
