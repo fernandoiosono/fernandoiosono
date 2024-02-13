@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-👨‍🚀 I'm Fernando Venegas, a Web Developer with an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
+👨‍🚀 Web Developer with an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
 
 💻 Key Skills: Full-Stack Web Development, Expertise in CSS, JavaScript, React, Node, Express, PostgreSQL, Redux, SCRUM, and a Sprinkle of Magic with .NET, SQL Server, and Design Skills.
 
