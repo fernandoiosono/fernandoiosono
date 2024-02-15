@@ -13,9 +13,10 @@
 
 🚀 If You're Seeking a Passionate Web Developer with Full-Stack Skills and a UX/UI Obsession, Let's Talk! I'm Ready to Contribute to the Success of Your Next Project!
 
-<hr />
-
-<h4 align="center">Top Langs :tongue:</h4>
+<h2 align="center">
+  <b> Top Langs </b>
+  <img src="https://media1.giphy.com/media/fH90OYkwqj8NrefJGc/giphy.gif" width="50">
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoiosono&langs_count=10&theme=tokyonight&layout=compact" alt="fernandoiosono :: Top Langs" />
