@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b> Hi! I'm Fernando Venegas </b>
+<h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b> Hi There! I'm Fernando Venegas, How's It Going? </b>  
 </h1>
 
 👨‍🚀 Web Developer with an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
@@ -13,11 +13,11 @@
 
 🚀 If You're Seeking a Passionate Web Developer with Full-Stack Skills and a UX/UI Obsession, Let's Talk! I'm Ready to Contribute to the Success of Your Next Project!
 
-<h2 align="center">
-  <b> Top Langs </b>
-  <img src="https://media1.giphy.com/media/fH90OYkwqj8NrefJGc/giphy.gif" width="50">
-</h2>
+<h1>
+  <img src="https://media2.giphy.com/media/min28ijNNEE0ZqcOno/giphy.gif" width="50">
+  <b> Top Languages </b>  
+</h1>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoiosono&langs_count=10&theme=tokyonight&layout=compact" alt="fernandoiosono :: Top Langs" />
 </p>
