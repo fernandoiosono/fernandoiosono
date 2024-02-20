@@ -17,12 +17,13 @@
 
 <h1>
   <img src="https://media4.giphy.com/media/zSp9sfDhBt5SExPlHa/giphy.gif" width="50">
-  <b> My Skills Include... </b>  
+  <b> My Tech Skills Include... </b>  
 </h1>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=atom,bash,cs,css,discord,dotnet,express,git,github,html,idea,js,jquery,linux,mysql,nodejs,postgres,powershell,react,redux,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress" />
+    <!--<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />-->
   </a>
 </p>
 
