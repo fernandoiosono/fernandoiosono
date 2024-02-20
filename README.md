@@ -14,6 +14,17 @@
 🚀 If You're Seeking a Passionate Web Developer with Full-Stack Skills and a UX/UI Obsession, Let's Talk! I'm Ready to Contribute to the Success of Your Next Project!
 
 <h1>
+  <img src="https://media4.giphy.com/media/zSp9sfDhBt5SExPlHa/giphy.gif" width="50">
+  <b> My Skills Include... </b>  
+</h1>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+
+<h1>
   <img src="https://media2.giphy.com/media/min28ijNNEE0ZqcOno/giphy.gif" width="50">
   <b> Top Languages </b>  
 </h1>
