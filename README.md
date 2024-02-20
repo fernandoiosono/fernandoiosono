@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQGufC6Nq5JLNw/profile-displaybackgroundimage-shrink_350_1400/0/1698950293218?e=1714003200&v=beta&t=U2ir8pNGfBYd3mhYcFPUX5hotWWAHAekdO5m9vkhNCo">
+
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <b> Hi There! I'm Fernando Venegas, How's It Going? </b>  
