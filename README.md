@@ -22,7 +22,7 @@
 
 <p align="left">
   <!--<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,jquery,linux,mysql,nodejs,postgres,powershell,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
   </a>-->
   
   Tech Skills
@@ -35,11 +35,11 @@
   [![Bash](https://skillicons.dev/icons?i=bash)](https://es.wikipedia.org/wiki/Bash)
   [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/es-es/languages/csharp)
   [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![JQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+  [![Regex](https://skillicons.dev/icons?i=regex)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+  [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
   
   Tools I Work With
   [![Atom](https://skillicons.dev/icons?i=atom)](https://atom-editor.cc/)
@@ -47,9 +47,9 @@
   [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/es-es/)
   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
   [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+  [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+  [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/es-es/powershell/)
   [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
