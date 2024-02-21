@@ -22,40 +22,40 @@
 
 <p align="left">
   <!--<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cs,css,discord,dotnet,express,git,github,html,idea,jquery,linux,mysql,nodejs,postgres,powershell,react,redux,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=idea,jquery,linux,mysql,nodejs,postgres,powershell,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
   </a>-->
   
-  Languages
+  Tech Skills
   [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+  [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/es/)
+  [![React](https://skillicons.dev/icons?i=react)](https://es.react.dev/)
+  [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+  [![Bash](https://skillicons.dev/icons?i=bash)](https://es.wikipedia.org/wiki/Bash)
+  [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/es-es/languages/csharp)
+  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   
-  Tools
+  Tools I Work With
   [![Atom](https://skillicons.dev/icons?i=atom)](https://atom-editor.cc/)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+  [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/es-es/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+  [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 </p>
 
 <h1>
