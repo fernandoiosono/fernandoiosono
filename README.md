@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bash,cs,css,discord,dotnet,express,git,github,html,idea,js,jquery,linux,mysql,nodejs,postgres,powershell,react,redux,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress" />
+    <img src="https://skillicons.dev/icons?i=atom,bash,cs,css,discord,dotnet,express,git,github,html,idea,js,jquery,linux,mysql,nodejs,postgres,powershell,react,redux,regex,sass,styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
     <!--<img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />-->
   </a>
 </p>
@@ -41,10 +41,9 @@
   <b> Let's Get In Touch! </b>  
 </h1>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram,discord" />
-  
-  <a href="https://wa.me/523323721182" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3323721182" /></a>
-  <a href="https://linkedin.com/in/fernandoiosono" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fernandoiosono" /></a>
-  <a href = "mailto:fernandoiosono@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@fernandoiosono" /></a>
+<p>
+  <a href="https://linkedin.com/in/fernandoiosono" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fernandoiosono" /></a>
+  <a href = "mailto:fernandoiosono@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fernandoiosono" /></a>
+  <a href="https://wa.me/523323721182" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3323721182" /></a>
+  <a href = "https://github.com/fernandoiosono" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="fernandoiosono" /></a>
 </p>
