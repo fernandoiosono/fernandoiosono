@@ -5,9 +5,7 @@
   <b> Hi There! I'm Fernando Venegas, How's It Going? </b>  
 </h1>
 
-👨‍🚀 Web Developer with an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
-
-💻 Key Skills: Full-Stack Web Development, Expertise in CSS, JavaScript, React, Node, Express, PostgreSQL, Redux, SCRUM, SQL Server, Design Skills and a Sprinkle of Magic with .NET
+👨‍🚀 Full-Stack Web Developer with Design Skills & an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
 
 🌐 I've Contributed to the Success of Exciting Projects, Including E-Commerce Systems, 360° Employee Assessments, ERPs, and Financial Information Systems. I've Also Developed User Manuals and Desktop Software for Both Internal and Industrial Use.
 
