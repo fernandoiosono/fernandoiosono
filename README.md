@@ -21,10 +21,6 @@
 </h1>
 
 <p align="left">
-  <!--<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,sequelize,visualstudio,vite,webpack,wordpress&perline=14" />
-  </a>-->
-  
   Tech Skills
   [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -36,10 +32,10 @@
   [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/es-es/languages/csharp)
   [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
   [![JQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
-  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
   [![Regex](https://skillicons.dev/icons?i=regex)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
   [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+  [![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
+  [![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org/)
   
   Tools I Work With
   [![Atom](https://skillicons.dev/icons?i=atom)](https://atom-editor.cc/)
@@ -50,12 +46,12 @@
   [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
   [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
   [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/es-es/powershell/)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-  [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+  [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
+  [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+  [![WebPack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+  [![Wordpress](https://skillicons.dev/icons?i=wordpress)](https://developer.wordpress.com/)
 </p>
 
 <h1>
