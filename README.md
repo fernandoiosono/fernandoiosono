@@ -2,7 +2,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b> Hi There! I'm Fernando Venegas, How's It Going? </b>  
+  <b> Hi There! My Name is Fernando Venegas </b>  
 </h1>
 
 👨‍🚀 Full-Stack Web Developer with Design Skills & an Unbreakable Love for UX/UI. I Turn Lines of Code into Creative and Innovative Solutions.
@@ -73,3 +73,5 @@
   <a href="https://wa.me/523323721182" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3323721182" /></a>
   <a href = "https://github.com/fernandoiosono" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="fernandoiosono" /></a>
 </p>
+
+<h5> Last Edition: 22/02/2024 </h5>
