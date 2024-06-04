@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1tV1qKH7AG52crgvAk1rYt0hPWQ4SbDyZ">
+![Profile Banner](https://github.com/fernandoiosono/fernandoiosono/blob/main/Minimalist%20Profile%20Banner.png)
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -73,4 +73,4 @@
   <a href="https://wa.me/523323721182" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3323721182" /></a>
 </p>
 
-<h5> Last Edition: 24/03/2024 </h5>
+<h5> Last Edition: 04/06/2024 </h5>
