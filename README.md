@@ -74,4 +74,4 @@
 🌎 WhatsApp: 331 978 0472
 
 <hr>
-<h5> Last Edition: 11 / June / 2024 </h5>
+<h5> 🖌️ Last Edition: 11 / June / 2024 </h5>
